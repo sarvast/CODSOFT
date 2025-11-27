@@ -261,14 +261,6 @@ Through this internship, I gained hands-on experience in:
 
 ---
 
-## 📞 Contact
-
-**Sarthak Srivastava**
-- LinkedIn: [Connect on LinkedIn]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
-
----
 
 ## 📄 License
 
